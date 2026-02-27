@@ -4,7 +4,7 @@
 // ==========================================
 
 // 1. Google Sheet CSV Link
-const CUSTOMER_SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSL2zqA2rTya82JLMtPkYiOcq_dOErwDTKIPB_nWyTAaYc3Lp7GgjHpItpt6nyX_mQCPFlCTSre5_-r/pub?output=csv";  
+const CUSTOMER_SHEET_URL = "https://docs.google.com/spreadsheets/d/1QWfWUOWfzHSabI2FSPkYPqvgmnSP0uU_FkJ3D09oVLs/export?format=csv&gid=0";
 
 // 2. Google Apps Script Web App URL
 const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxW7u1HAaY8mhkkO8dWlTr5OTVP2Hz_4AyRtl51p0YvqQRf4JV7s48XemKUu893hdyL/exec";

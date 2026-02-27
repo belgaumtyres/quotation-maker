@@ -1,5 +1,5 @@
 // ==========================================
-// utils.js - The Global Helpers
+// utils.js
 // Contains utility functions like toast notifications used across multiple files.
 // ==========================================
 
